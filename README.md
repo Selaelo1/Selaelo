@@ -38,30 +38,30 @@ I'm a passionate self-taught full-stack developer with a unique background in ac
 ### Skunkworks Africa (Lead Developer)
 - **Skunkworks Digital** ([Live Demo](https://www.skunkworksdigital.co.za/) | [GitHub](https://github.com/yourusername/skunkworks-digital))  
   Official company website built with Angular and Node.js
-- **Skunkworks Academy LMS** ([Live Demo](https://academy.skunk| [GitHub](https://github.com/skunkworks-academy))  
+- **Skunkworks Academy LMS** ([Live Demo](https://skunkworksacademy.com/)| [GitHub](https://github.com/skunkworks-academy))  
   Learning management system built with React and Django
 
 ## Personal Projects 🚀
 
 ### Secure Bank
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/yourusername/secure-bank)
-[![Live Demo](https://img.shields.io/badge/-Live_Demo-FF5722?logo=firefox&logoColor=white)](https://secure-bank-demo.com)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/Selaelo1/secure-bank)
+[![Live Demo](https://img.shields.io/badge/-Live_Demo-FF5722?logo=firefox&logoColor=white)](https://securbank.netlify.app/)  
 Banking application with robust security features built with React and Node.js
 
 ### PureBody
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/yourusername/purebody)
-[![Live Demo](https://img.shields.io/badge/-Live_Demo-FF5722?logo=firefox&logoColor=white)](https://purebody-store.com)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/Selaelo1/pure-body)
+[![Live Demo](https://img.shields.io/badge/-Live_Demo-FF5722?logo=firefox&logoColor=white)](https://purebody.netlify.app/)  
 E-commerce platform for organic products built with Vue.js and Django
 
 ### CityStays
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/yourusername/citystays)
-[![Live Demo](https://img.shields.io/badge/-Live_Demo-FF5722?logo=firefox&logoColor=white)](https://citystays-bookings.com)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/Selaelo1/citystays)
+[![Live Demo](https://img.shields.io/badge/-Live_Demo-FF5722?logo=firefox&logoColor=white)](https://citystays.netlify.app/)  
 Urban accommodation booking platform built with Angular and Firebase
 
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](your-linkedin-url)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](your-twitter-url)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 
 
