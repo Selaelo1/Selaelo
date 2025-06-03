@@ -1,64 +1,67 @@
-## Hi, I'm Selaelo👋
+# Hi, I'm Selaelo 👋
 
-I'm a passionate self-taught frontend developer with a unique background in accounting 📊. I'm based in Gauteng, South Africa 🇿🇦. I started my coding journey in 2023 and have been hooked ever since 💻. To accelerate my learning, I completed a frontend bootcamp with SheCodes and a backend bootcamp with ALX Africa. Without any formal training prior to these bootcamps, I've taught myself to build fast, responsive, and visually appealing web applications through dedication and hard work 💼. When I'm not coding, you can find me cooking up a storm in the kitchen  or trading in the markets 📈. I love the thrill of learning new technologies and solving complex problems, and I'm always looking for the next challenge 🔍.
+I'm a passionate self-taught full-stack developer with a unique background in accounting 📊. Based in Gauteng, South Africa 🇿🇦, I've been the **Lead Developer at Skunkworks Africa** since January 2025, overseeing development for both Skunkworks Digital and Skunkworks Academy - building their complete tech stack from the ground up.
 
-## My Expertice 👩🏼‍💻
+## My Tech Stack 👩🏼‍💻
 
-Within the wide breadth of the software industry, I chose to focus on web development as a starting point because of its ubiquity and power. I fell in love with AI and building things with it - its potential to transform industries and revolutionize the way we live and work is truly exciting! I currently specialize in the JavaScript programming language.
+### Programming Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
-**<big>Programming Languages</big>**
+### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+
+### Tools
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+
+## Professional Projects 🏢
+
+### Skunkworks Africa (Lead Developer)
+- **Skunkworks Digital** ([Live Demo](https://www.skunkworksdigital.co.za/) | [GitHub](https://github.com/yourusername/skunkworks-digital))  
+  Official company website built with Angular and Node.js
+- **Skunkworks Academy LMS** ([Live Demo](https://academy.skunkworks.digital) | [GitHub](https://github.com/yourusername/skunkworks-academy))  
+  Learning management system built with React and Django
+
+## Personal Projects 🚀
+
+### Secure Bank
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/yourusername/secure-bank)
+[![Live Demo](https://img.shields.io/badge/-Live_Demo-FF5722?logo=firefox&logoColor=white)](https://secure-bank-demo.com)  
+Banking application with robust security features built with React and Node.js
+
+### PureBody
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/yourusername/purebody)
+[![Live Demo](https://img.shields.io/badge/-Live_Demo-FF5722?logo=firefox&logoColor=white)](https://purebody-store.com)  
+E-commerce platform for organic products built with Vue.js and Django
+
+### CityStays
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/yourusername/citystays)
+[![Live Demo](https://img.shields.io/badge/-Live_Demo-FF5722?logo=firefox&logoColor=white)](https://citystays-bookings.com)  
+Urban accommodation booking platform built with Angular and Firebase
+
+## Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](your-twitter-url)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 
-🔹 JavaScript
-🔹 Typescript
 
-
-**<big>Front-end</big>**
-
-🔹 HTML5
-🔹 CSS3
-🔹 Angular 18
-🔹 React
-🔹 Vue.js
-🔹 React Native
-🔹 Bootstrap 5
-
-
-**<big>Back-end</big>**
-
-
-🔹 Node.js
-🔹 Express
-🔹 MongoDB
-
-
-**<big>Tools</big>**
-
-
-🔹 Redux
-🔹 Context API
-🔹 CSS Grid
-🔹 Flexbox
-🔹 AI
-🔹 Github
-🔹 Git
-
-
-
-## Projects 🏆
-My GitHub serves as a canvas where I store and showcase my favorite projects and course work stemming from immersive online courses. These projects and course material emphasize fundamental computer science concepts and web development technologies, including JavaScript front- and backend technologies. Here, you'll find a collection of projects that demonstrate my skills and interests in web development, AI, and beyond. Take a look around and explore the projects that showcase my passion for building innovative solutions!
-
-Here is a list of a few of my repositories containing my work:
-
-  * **Amazon Clone**: A fully functional e-commerce web application built using React, Redux, and CSS Grid. Features include user authentication, shopping cart, and product search. [GitHub](https://github.com/Selaelo1/Amazon-Website-Clone) | [Live Demo](https://amacloned.netlify.app/)
-
-    
-  * **Weather App**: A responsive weather web application built using HTML, CSS, and JavaScript. Features include current weather conditions, 5-day forecast, and location-based weather updates. [GitHub](https://github.com/Selaelo1/weather-app) | [Live Demo](https://weatherornottoday.netlify.app/)
-
-    
-  * **World Clock**: A simple yet elegant web application built using JavaScript and CSS. Features include real-time clock updates for multiple time zones and a clean, minimalistic design. [GitHub](https://github.com/Selaelo1/World-Clock) | [Live Demo](https://timefortheworld.netlify.app/)
-
-## Connect with me
-
-* [LinkedIn](www.linkedin.com/in/selaelo-langa)
-* [Instagram](https://www.instagram.com/selaelo.langa/)
