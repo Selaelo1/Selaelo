@@ -38,7 +38,7 @@ I'm a passionate self-taught full-stack developer with a unique background in ac
 ### Skunkworks Africa (Lead Developer)
 - **Skunkworks Digital** ([Live Demo](https://www.skunkworksdigital.co.za/) | [GitHub](https://github.com/yourusername/skunkworks-digital))  
   Official company website built with Angular and Node.js
-- **Skunkworks Academy LMS** ([Live Demo](https://academy.skunkworks.digital) | [GitHub](https://github.com/yourusername/skunkworks-academy))  
+- **Skunkworks Academy LMS** ([Live Demo](https://academy.skunk| [GitHub](https://github.com/skunkworks-academy))  
   Learning management system built with React and Django
 
 ## Personal Projects 🚀
